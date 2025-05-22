@@ -70,3 +70,27 @@ ul {
 section {
     margin-top: 10%;
 }
+.grid {
+    margin-left: 5%;
+    margin-top: 10%;
+}
+footer {
+    background-color: #002B4E;
+}
+.box {
+    max-width: 1200px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sed {
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.sub {
+    font-weight: 800;
+    font-size: 38px;
+    color: #FFFFFF;
+}
