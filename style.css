@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 2%;
+}
+.classFlex {
+    display: flex;
+    margin-top: 5%;
+}
+.home {
+    color: #9497A1;
+    border-right: solid 1px #9497A1;
+    padding-right: 1%;
+    font-weight: 500;
+}
+.our {
+    font-weight: 600;
+    margin-left: 1%;
+}
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    color: #9497A1;
+}
+.ourTeam {
+    font-size: 16px;
+    font-weight: 700;
+    color: #185CFF;
+
+}
+.textGet {
+    font-weight: 800;
+    font-size: 46px;
+    color: #292D33;
+}
+.textSed {
+    font-weight: 400;
+    font-size: 20px;
+    color: #9497A1;
+    width: 80%;
+    margin: auto;
+}
+.textt {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+}
