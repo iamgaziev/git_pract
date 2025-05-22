@@ -55,3 +55,18 @@ ul {
     margin: auto;
     margin-top: 5%;
 }
+.flexText {
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 100%;
+}
+.text {
+    font-size: 19px;
+    font-weight: 500;
+    width: 45%;
+}
+section {
+    margin-top: 10%;
+}
